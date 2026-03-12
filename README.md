@@ -5,14 +5,6 @@ Interested in **Artificial Intelligence, Machine Learning, and building practica
 
 Currently working on **SajiloText - an AI-powered Nepali text simplification system using mT5 and OCR.**
 
----
-
-## 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/manibhatt10)
-
----
-
 ## 💻 Tech Stack
 
 <p>
